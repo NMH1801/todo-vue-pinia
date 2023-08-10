@@ -1,0 +1,104 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "text": "Buy groceries",
+      "done": false
+    },
+    {
+      "id": 2,
+      "text": "Complete report",
+      "done": false
+    },
+    {
+      "id": 3,
+      "text": "Go for a run",
+      "done": false
+    },
+    {
+      "id": 4,
+      "text": "Read a book",
+      "done": false
+    },
+    {
+      "id": 5,
+      "text": "Call a friend",
+      "done": false
+    },
+    {
+      "id": 6,
+      "text": "Fix the car",
+      "done": false
+    },
+    {
+      "id": 7,
+      "text": "Cook dinner",
+      "done": false
+    },
+    {
+      "id": 8,
+      "text": "Watch a movie",
+      "done": false
+    },
+    {
+      "id": 9,
+      "text": "Attend a meeting",
+      "done": true
+    },
+    {
+      "id": 10,
+      "text": "Clean the house",
+      "done": true
+    },
+    {
+      "id": 11,
+      "text": "Write an email",
+      "done": true
+    },
+    {
+      "id": 12,
+      "text": "Study for exam",
+      "done": true
+    },
+    {
+      "id": 13,
+      "text": "Take a walk",
+      "done": true
+    },
+    {
+      "id": 14,
+      "text": "Pay bills",
+      "done": false
+    },
+    {
+      "id": 15,
+      "text": "Work on project",
+      "done": true
+    },
+    {
+      "id": 16,
+      "text": "Listen to music",
+      "done": false
+    },
+    {
+      "id": 17,
+      "text": "Visit family",
+      "done": false
+    },
+    {
+      "id": 18,
+      "text": "Plan vacation",
+      "done": false
+    },
+    {
+      "id": 19,
+      "text": "Exercise",
+      "done": false
+    },
+    {
+      "id": 20,
+      "text": "Write a journal",
+      "done": false
+    }
+  ]
+}
